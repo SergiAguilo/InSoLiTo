@@ -20,6 +20,6 @@ Before creating the databases you need a Publications domain from your tools of 
 
 ### Archived Repository
 
-The repository is archived because it has the implementation used for the Master thesis project for the Master in Innovation and Research in Informatics from the Universitat Politècnia de Catalunya (UPC), with Data Science as specialization. The full thesis project can be read (here)[https://upcommons.upc.edu/handle/2117/356877].
+The repository is archived because it has the implementation used for the Master thesis project for the Master in Innovation and Research in Informatics from the Universitat Politècnica de Catalunya (UPC), with Data Science as specialization. The full thesis project can be read [here](https://upcommons.upc.edu/handle/2117/356877).
 
-In order to follow the current work of the InSoLiTo project, go to this (repository)[https://github.com/inab/InSoLiTo].
+In order to follow the current work of the InSoLiTo project, go to this [repository](https://github.com/inab/InSoLiTo).
