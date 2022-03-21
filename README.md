@@ -1,6 +1,6 @@
 # InSoLiTo (Inferring Social Life of Tools)
 
-The aim of this project is to create a graph-based network of the co-usage, understood as being cited by the same scientific publication, of research software found in OpenEBench.
+The aim of this Master's thesis project is to create a graph-based network of the co-usage, understood as being cited by the same scientific publication, of research software found in OpenEBench.
 
 Currently, there are two type of databases used to create this social network of tools:
 
@@ -17,3 +17,9 @@ The HTML files and script used to visualise the graph are in the [Visualisation]
 ### Main requirement
 
 Before creating the databases you need a Publications domain from your tools of interest. The Publications domain can be computed with the [OpenEBench references and citations enricher](https://github.com/inab/opeb-enrichers/tree/master/pubEnricher).
+
+### Archived Repository
+
+The repository is archived because it has the implementation used for the Master thesis project for the Master in Innovation and Research in Informatics from the Universitat Politècnia de Catalunya (UPC), with Data Science as specialization. The full thesis project can be read (here)[https://upcommons.upc.edu/handle/2117/356877].
+
+In order to follow the current work of the InSoLiTo project, go to this (repository)[https://github.com/inab/InSoLiTo].
